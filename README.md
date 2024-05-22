@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,28&section=header&text=Welcome-nl-MinYeong's%20GitHub!&fontColor=f7f5f5&fontSize=30)
 
 <!--
 **alsdud019/alsdud019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
