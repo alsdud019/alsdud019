@@ -2,7 +2,7 @@
 -->
 
 <div align= "center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=90&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=90&section=header&animation=twinkling&fontColor=ffffff" />
   
   ![Profile Demo](https://tech-orbit.wontory.dev/api?title=MinYeong&tech=Linux,Python&size=400&duration=15)
 
