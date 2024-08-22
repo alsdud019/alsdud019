@@ -1,8 +1,17 @@
 <!--![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,28&section=header&text=Welcome-nl-MinYeong's%20GitHub!&fontColor=f7f5f5&fontSize=30)
 -->
+
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&text=Welcome%20to%20MinYeong's%20GitHub&animation=twinkling&fontColor=ffffff&fontSize=40" />
-    </div>
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=90&animation=twinkling&fontColor=ffffff" />
+  
+  ![Profile Demo](https://tech-orbit.wontory.dev/api?title=MinYeong&tech=Linux,Python&size=400&duration=15)
+
+ <p>
+  Hi there😊, I'm MinYeong.<br/>
+  Welcome to MinYeong's GitHub.<br/>
+  My goal is to provide a useful experience.<br/>
+ </p>
+</div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> 
