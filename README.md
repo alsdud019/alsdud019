@@ -9,7 +9,7 @@
  <p>
   Hi there😊, I'm MinYeong.<br/>
   Welcome to MinYeong's GitHub.<br/>
-  My goal is to provide a useful experience.<br/>
+  My goal is to provide a useful experience for User.<br/>
  </p>
 </div>
     <div style="text-align: left;">
