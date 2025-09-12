@@ -1,9 +1,11 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=200&section=header&text=Min%20Yeong&fontSize=80&animation=fadeIn&fontColor=#000000" />
 
-
 안녕하세요 👋 쉽게 포기하지 않는 개발자 김민영입니다. <br>
-사람들에게 조금 더 유용한 디지털경험을 제공하기 위해 고민합니다. <br>
+주로 백엔드 개발과 임베디드 SW 무선통신 개발을 진행해 왔습니다. <br>
+팀원들과 협업하며 조금 더 유용한 디지털경험을 사람들에게 제공하기 위해 고민합니다. <br>
+
+
 </div>
 <br>
 <div align="center" >
