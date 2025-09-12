@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=200&section=header&text=Min%20Yeong&fontSize=80&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=200&section=header&text=Min%20Yeong&fontSize=80&animation=fadeIn&fontColor=#000000" />
 
 
 안녕하세요 👋 쉽게 포기하지 않는 개발자 김민영입니다. <br>
